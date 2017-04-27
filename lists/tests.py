@@ -3,6 +3,7 @@ from django.core.urlresolvers import resolve
 from lists.views import home_page
 from django.http import HttpRequest
 
+
 # Create your tests here.
 # class SmokeTest(TestCase):
 #     def test_bad_maths(self):
